@@ -47,7 +47,7 @@ The system must allow users to filter questions based on the following criteria:
 1. Timeframe (start and end date)
 
 * Filtering Accuracy: The results from these filtering operations must be accurate at a rate of at least 80%.
-Output & Usability
+Output & Usability.
 
 * Export Formats: The system must be able to export user-generated outputs in both CSV and PDF formats.
 
