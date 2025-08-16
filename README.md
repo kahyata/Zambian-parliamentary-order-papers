@@ -51,5 +51,5 @@ Output & Usability
 
 * Export Formats: The system must be able to export user-generated outputs in both CSV and PDF formats.
 
-* Data Quality: The exported data must be clean and well-formatted, allowing users to analyze it without difficulty.
+* Data Quality: The exported data must be clean and correctly set up, allowing users to analyze it without difficulty.
 
