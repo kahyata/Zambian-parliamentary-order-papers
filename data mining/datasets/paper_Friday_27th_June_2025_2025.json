@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "title": "Friday, 27th June, 2025",
+    "source_url": "https://www.parliament.gov.zm/node/12401",
+    "document_type": "Order Paper",
+    "session": "FOURTH SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "358",
+      "asked_by": "Mr Miyutu (Kalabo Central)",
+      "minister": "Minister of Technology and Science what measures the Government is taking to enhance the quality of education provided at skills training centres, countrywide.",
+      "section": "7. QUESTIONS FOR ORAL ANSWER (STANDING ORDER 80)",
+      "parts": []
+    },
+    {
+      "question_number": "359",
+      "asked_by": "Mr Fube (Chilubi)",
+      "minister": "Minister of Education",
+      "section": "7. QUESTIONS FOR ORAL ANSWER (STANDING ORDER 80)",
+      "parts": [
+        "(a) whether the Government has any plans to procure a boat for the District Education Board Secretary’s Office in Chilubi District;",
+        "(b) if so, when the boat will be procured;",
+        "(c) what the estimated cost of the boat is; and",
+        "(d) if there are no such plans, why."
+      ]
+    },
+    {
+      "question_number": "360",
+      "asked_by": "Mr Kandafula (Serenje)",
+      "minister": "Minister of Local Government and Rural Development",
+      "section": "7. QUESTIONS FOR ORAL ANSWER (STANDING ORDER 80)",
+      "parts": [
+        "(a) whether the Government has any plans to construct a road connecting Kashishi and Lupiya Wards in Serenje Parliamentary Constituency;",
+        "(b) if so, when the project will be implemented; and",
+        "(c) if there are no such plans, why."
+      ]
+    }
+  ],
+  "question_count": 3,
+  "status": "success"
+}

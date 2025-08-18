@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "title": "Wednseday, 19th March, 2025",
+    "source_url": "https://www.parliament.gov.zm/node/12243",
+    "document_type": "Order Paper",
+    "session": "FOURTH SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "263",
+      "asked_by": "Mr Simuzingili (Gwembe)",
+      "minister": "Minister of Home Affairs and Internal Security",
+      "section": "7. QUESTIONS FOR ORAL ANSWER (STANDING ORDER 80)",
+      "parts": [
+        "(a) whether the Government has any plans to construct a police station in Munyumbwe area in Gwembe District;",
+        "(b) if so, when the plans will be implemented;",
+        "(c) what the estimated cost of the project is;",
+        "(d) whether the land for the project has been secured; and",
+        "(e) if so, where the land is located."
+      ]
+    },
+    {
+      "question_number": "264",
+      "asked_by": "Mr J Daka (Chadiza)",
+      "minister": "Minister of Education",
+      "section": "7. QUESTIONS FOR ORAL ANSWER (STANDING ORDER 80)",
+      "parts": [
+        "(a) why grants to schools in Chadiza District are released late;",
+        "(b) what measures are being taken to ensure that the grants are released on time; and",
+        "(c) when the Government will increase grants to schools which are under-funded."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

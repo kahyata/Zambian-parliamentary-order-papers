@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "title": "Thursday, 11th July, 2019",
+    "source_url": "https://www.parliament.gov.zm/node/8000",
+    "document_type": "Order Paper",
+    "session": "THIRD SESSION OF THE TWELFTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "452",
+      "asked_by": "Mr Mecha (Chifunabuli)",
+      "minister": "Minister of Housing and Infrastructure Development",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 30)",
+      "parts": [
+        "(a) when the tarring of the Samfya-Lubwe-Kasaba road in Chifunabuli Parliamentary Constituency will be completed;",
+        "(b) whether the project is on schedule;",
+        "(c) if not, what has caused the delay in completing the project;",
+        "(d) what measures are being taken to expedite the works; and",
+        "(e) whether the initial time frame for the completion of the project has been revised."
+      ]
+    },
+    {
+      "question_number": "453",
+      "asked_by": "Mr Mutaba (Mwandi)",
+      "minister": "Minister of Transport and Communication",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 30)",
+      "parts": [
+        "(a) when the construction of communication towers in Mwandi Parliamentary Constituency will commence;",
+        "(b) how many towers are earmarked for construction in 2019; and",
+        "(c) in which areas the towers will be situated."
+      ]
+    },
+    {
+      "question_number": "454",
+      "asked_by": "Mr Nyirenda (Lundazi)",
+      "minister": "Minister of Housing and Infrastructure Development",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 30)",
+      "parts": [
+        "(a) whether the Government has any plans to rehabilitate the following bridges in Lundazi Parliamentary Constituency:",
+        "(i) Ndonda; (ii) Kapichila; and (iii) Muthu Wanjobvu; and",
+        "(b) if so, when the plans will be implemented."
+      ]
+    }
+  ],
+  "question_count": 3,
+  "status": "success"
+}

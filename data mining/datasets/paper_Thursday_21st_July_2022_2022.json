@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "title": "Thursday, 21st July, 2022",
+    "source_url": "https://www.parliament.gov.zm/node/10270",
+    "document_type": "Order Paper",
+    "session": "FIRST SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "379",
+      "asked_by": "Mr Mandandi (Sioma)",
+      "minister": "Minister of Infrastructure, Housing and Urban Development",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 74)",
+      "parts": [
+        "(a) why the construction of the Nangweshi - Sinjembela road in Sioma District has stalled;",
+        "(b) when the project will resume;",
+        "(c) what the cost of the project is; and",
+        "(d) what the time frame for the completion of the project is."
+      ]
+    },
+    {
+      "question_number": "380",
+      "asked_by": "Mr Mtayachalo (Chama North)",
+      "minister": "Minister of Education",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 74)",
+      "parts": [
+        "(a) whether the Government has any plans to build a secondary school in Chief Muliro area in Chama North Parliamentary Constituency; and",
+        "(b) if so, when the plans will be implemented."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

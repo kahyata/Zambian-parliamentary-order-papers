@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "title": "Friday, 22nd March, 2019",
+    "source_url": "https://www.parliament.gov.zm/node/7914",
+    "document_type": "Order Paper",
+    "session": "THIRD SESSION OF THE TWELFTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "350",
+      "asked_by": "Mr S Miti (Feira)",
+      "minister": "Minister of Housing and Infrastructure Development",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 30)",
+      "parts": [
+        "(a) when the construction of the following bridges on D145 Road in Feira Parliamentary Constituency will commence:",
+        "(i) Mulambwa; and (ii) Kaunga;",
+        "(b) who the contractor for the project is;",
+        "(c) what the total cost of the project is; and",
+        "(d) what the time frame for the completion of the project is."
+      ]
+    },
+    {
+      "question_number": "351",
+      "asked_by": "Mr Kakubo (Kapiri Mposhi)",
+      "minister": "Minister of Housing and Infrastructure Development",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 30)",
+      "parts": [
+        "(a) whether the Government has any plans to rehabilitate the  Lunchu Bridge, which is in a deplorable condition, in Lunchu Ward in Kapiri Mposhi Parliamentary Constituency;",
+        "(b) if so, when the plans will be implemented;",
+        "(c) whether a contractor for the project has been identified; and",
+        "(d) if so, what the name of the contractor is."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

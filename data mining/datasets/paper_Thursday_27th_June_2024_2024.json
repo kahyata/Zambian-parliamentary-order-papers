@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "title": "Thursday, 27th June, 2024",
+    "source_url": "https://www.parliament.gov.zm/node/11748",
+    "document_type": "Order Paper",
+    "session": "THIRD SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "376",
+      "asked_by": "Mr Kapyanga (Mpika)",
+      "minister": "Minister of Infrastructure, Housing and Urban Development",
+      "section": "6. QUESTIONS FOR ORAL ANSWER (STANDING ORDER 80)",
+      "parts": [
+        "(a) when construction of the Michael Chilufya Sata School of Public Health in Mpika District will commence;",
+        "(b) when the tendering process for the project will commence; and",
+        "(c) what the estimated cost of the project is."
+      ]
+    },
+    {
+      "question_number": "377",
+      "asked_by": "Mr Miyutu (Kalabo Central)",
+      "minister": "Minister of Education",
+      "section": "6. QUESTIONS FOR ORAL ANSWER (STANDING ORDER 80)",
+      "parts": [
+        "(a) what the benefits and challenges of the introduction of grants in public schools are; and",
+        "(b) what measures are being taken to mitigate the challenges."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

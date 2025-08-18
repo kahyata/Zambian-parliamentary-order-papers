@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "title": "Thursday, 17th July, 2025",
+    "source_url": "https://www.parliament.gov.zm/node/12454",
+    "document_type": "Order Paper",
+    "session": "FOURTH SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "379",
+      "asked_by": "Mr Chewe (Lubansenshi)",
+      "minister": "Minister of Infrastructure, Housing and Urban Development",
+      "section": "GROUPED QUESTIONS FOR ORAL ANSWER (STANDING ORDER 83)",
+      "parts": [
+        "(a) whether the Government has any plans to tar the Luwingu-Chaba road in Luwingu District;",
+        "(b) if so, when the plans will be implemented;",
+        "(c) what the estimated cost of the project is; and",
+        "(d) if there are no such plans, why."
+      ]
+    },
+    {
+      "question_number": "380",
+      "asked_by": "Mr Tayengwa (Kabwata)",
+      "minister": "Minister of Infrastructure, Housing and Urban Development",
+      "section": "GROUPED QUESTIONS FOR ORAL ANSWER (STANDING ORDER 83)",
+      "parts": [
+        "(a) whether the Government has any plans to tar the Shantumbu road in Kafue District;",
+        "(b) if so, when the plans will be implemented; and",
+        "(a) if there are no such plans, why."
+      ]
+    },
+    {
+      "question_number": "381",
+      "asked_by": "Mr Tayengwa (Kabwata)",
+      "minister": "Minister of Infrastructure, Housing and Urban Development",
+      "section": "GROUPED QUESTIONS FOR ORAL ANSWER (STANDING ORDER 83)",
+      "parts": [
+        "(a) whether the Government has any plans to upgrade the following roads in Lusaka District to dual carriage way, in order to ease the flow of traffic in the city:",
+        "(i) Tokyo Way; and (ii) Airport Road.",
+        "(b) if so, when the plans will be implemented; and",
+        "(c) if there are no such plans, why."
+      ]
+    }
+  ],
+  "question_count": 3,
+  "status": "success"
+}

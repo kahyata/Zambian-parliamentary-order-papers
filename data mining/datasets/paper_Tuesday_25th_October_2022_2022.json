@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "title": "Tuesday, 25th October, 2022",
+    "source_url": "https://www.parliament.gov.zm/node/10686",
+    "document_type": "Order Paper",
+    "session": "SECOND SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "76",
+      "asked_by": "Mr C Chibuye (Mkushi North)",
+      "minister": "Minister of Health",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 74)",
+      "parts": [
+        "(a) whether the Government has any plans to expand the mortuary capacity at Mkushi District Hospital;",
+        "(b) if so, when the plans will be implemented;",
+        "(c) what the estimated time frame for the completion of the project is; and",
+        "(d) if there are no such plans, why."
+      ]
+    },
+    {
+      "question_number": "77",
+      "asked_by": "Mr Simuzingili (Gwembe)",
+      "minister": "Minister of Health",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 74)",
+      "parts": [
+        "(a) whether the Government has any plans to procure ambulances for the following health facilities in Gwembe District:",
+        "(i) Gwembe District Hospital; (ii) Munyumbwe Level 1 Hospital; and (iii) Chabbobboma Mission Health Centre;",
+        "(b) if so, when the plans will be implemented; and",
+        "(c) what the cost of each ambulance is."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

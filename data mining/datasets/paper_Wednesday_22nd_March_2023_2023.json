@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "title": "Wednesday, 22nd March, 2023",
+    "source_url": "https://www.parliament.gov.zm/node/10963",
+    "document_type": "Order Paper",
+    "session": "SECOND SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "215",
+      "asked_by": "Mr. P Phiri (Mkaika)",
+      "minister": "Minister of Infrastructure, Housing and Urban Development",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 74)",
+      "parts": [
+        "(a) whether the Government has any plans to upgrade Chanida Border Post in Katete District to a one stop border post; and",
+        "(b) if so, when the plans will be implemented."
+      ]
+    },
+    {
+      "question_number": "216",
+      "asked_by": "Mr. Chanda (Kanchibiya)",
+      "minister": "Minister of Energy",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 74)",
+      "parts": [
+        "(a) when the Government will electrify the Kabinga Chiefdom in Kanchibiya Parliamentary Constituency;",
+        "(b) what the estimated cost of the project is; and",
+        "(c) what the estimated time frame for the completion of the project is."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

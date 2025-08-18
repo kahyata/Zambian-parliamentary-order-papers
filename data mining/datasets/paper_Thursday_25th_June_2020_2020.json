@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "title": "Thursday, 25th June, 2020",
+    "source_url": "https://www.parliament.gov.zm/node/8347",
+    "document_type": "Order Paper",
+    "session": "FOURTH SESSION OF THE TWELFTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "246",
+      "asked_by": "Mr Michelo (Bweengwa)",
+      "minister": "Minister of Fisheries and Livestock",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 30)",
+      "parts": [
+        "(a) whether the Government has any plans to construct a milk processing plant in Monze District;",
+        "(b) if so, when the plans will be implemented; and",
+        "(c) if there are no such plans, why."
+      ]
+    },
+    {
+      "question_number": "247",
+      "asked_by": "Mr Mecha (Chifunabuli)",
+      "minister": "Minister of Agriculture",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 30)",
+      "parts": [
+        "(a) whether there are any irrigation schemes that are non-operational, countrywide;",
+        "(b) if so, how many are non-operational;",
+        "(c) why they are non-operational;",
+        "(d) what measures the Government is taking to revamp the non-operational schemes; and",
+        "(e) whether the Government has any plans to establish irrigation schemes in Chifunabuli Parliamentary Constituency by 2021."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

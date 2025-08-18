@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "title": "Wednesday, 6th July, 2022",
+    "source_url": "https://www.parliament.gov.zm/node/10221",
+    "document_type": "Order Paper",
+    "session": "FIRST SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "350",
+      "asked_by": "Mr Kang’ombe (Kamfinsa)",
+      "minister": "Minister of Home Affairs and Internal Security",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 76)",
+      "parts": [
+        "(a) whether the Government is aware that 12 pupils at Wesley Nyirenda Primary School in Kamfinsa Parliamentary Constituency were hospitalised after an alleged gassing incident on Wednesday, 22nd June, 2022;",
+        "(b) if so, what measures are being taken to ensure that the culprits are arrested; and",
+        "(c) what measures are being taken to ensure a safe learning environment for pupils at all schools."
+      ]
+    },
+    {
+      "question_number": "351",
+      "asked_by": "Mr Kang’ombe (Kamfinsa)",
+      "minister": "Minister of Infrastructure, Housing and Urban Development",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 76)",
+      "parts": [
+        "(a) whether the Government is aware that the Katoka Mema Bridge in Kamfinsa Parliamentary Constituency collapsed in May, 2022, thereby making it difficulty for farmers from the Katoka Mema Farming Block to transport their produce to the market; and",
+        "(b) if so, what urgent measures are being taken to restore connectivity."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

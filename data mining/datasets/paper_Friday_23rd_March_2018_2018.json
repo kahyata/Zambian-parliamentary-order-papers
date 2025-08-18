@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "title": "Friday, 23rd March, 2018",
+    "source_url": "https://www.parliament.gov.zm/node/7467",
+    "document_type": "Order Paper",
+    "session": "SECOND SESSION OF THE TWELFTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "245",
+      "asked_by": "Mr Kasonso (Solwezi West)",
+      "minister": "Minister of General Education",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER NO. 30)",
+      "parts": [
+        "(a) whether the Government has any plans to distribute desks to schools in Kalumbila District;",
+        "(b) if so, when the desks will be distributed;",
+        "(c) how many schools will benefit from the exercise; and",
+        "(d) what the total cost of purchasing and distributing the desks is."
+      ]
+    },
+    {
+      "question_number": "246",
+      "asked_by": "Mr Ng’onga (Kaputa)",
+      "minister": "Minister of Health",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER NO. 30)",
+      "parts": [
+        "(a) what has caused the delay in gazetting the 5 health facilities in Kaputa District;",
+        "(b) what the necessary conditions for a health facility to be gazetted are; and",
+        "(c) why the Mukupa-Katandula Rural Health Centre has not been gazetted to-date."
+      ]
+    },
+    {
+      "question_number": "247",
+      "asked_by": "Mr Mecha (Chifunabuli)",
+      "minister": "Minister of Energy",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER NO. 30)",
+      "parts": [
+        "(a) whether the Government has any plans to electrify Chishi Island in Chifunabuli Parliamentary Constituency;",
+        "(b) if so, when the plans will be implemented; and",
+        "(c) if there are no such plans, why."
+      ]
+    }
+  ],
+  "question_count": 3,
+  "status": "success"
+}

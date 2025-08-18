@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "title": "Tuesday, 1st October, 2019",
+    "source_url": "https://www.parliament.gov.zm/node/8122",
+    "document_type": "Order Paper",
+    "session": "FOURTH SESSION OF THE TWELFTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "24",
+      "asked_by": "Mr Imbuwa (Nalolo)",
+      "minister": "Minister of Fisheries and Livestock",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 30)",
+      "parts": [
+        "(a) whether the Government has any plans to procure fish cages for fish farmers in Nalolo District; and",
+        "(b) if so, when the plans will be implemented."
+      ]
+    },
+    {
+      "question_number": "25",
+      "asked_by": "Mr Chalwe (Bahati)",
+      "minister": "Minister of Housing and Infrastructure",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 30)",
+      "parts": [
+        "(a) when the tarring of the following roads in Bahati Parliamentary Constituency will commence:",
+        "(i) Mansa-Kalaba; and (ii) Mansa-Matanda;",
+        "(b) what the total cost of the project is; and",
+        "(c) what the estimated time frame for the completion of the project is."
+      ],
+      "question_text": " Development:"
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

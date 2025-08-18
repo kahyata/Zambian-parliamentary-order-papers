@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "title": "Friday, 24th November, 2023",
+    "source_url": "https://www.parliament.gov.zm/node/11458",
+    "document_type": "Order Paper",
+    "session": "THIRD SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "150",
+      "asked_by": "Mr Katambo (Masaiti)",
+      "minister": "Minister of Health",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 76)",
+      "parts": [
+        "(a) what procedure was used in the procurement of erythromycin drugs from Mission Pharma, a pharmaceutical company; and",
+        "(b) what measures are being taken to prevent the procurement of substandard medical drugs and medical kits in future."
+      ]
+    },
+    {
+      "question_number": "151",
+      "asked_by": "Mr C Chibuye (Mkushi North)",
+      "minister": "Minister of Home Affairs and Internal Security",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 76)",
+      "parts": [
+        "(a) whether the Government is aware that a suspect was found dead in police cells on Sunday, 19th November, 2023, in Mkushi North Parliamentary Constituency after allegedly being tortured by police officers;",
+        "(b) if so, what urgent measures are being taken to safeguard the lives of suspects in detention; and",
+        "(c) what measures are being taken to prevent such occurrences at police stations, countrywide."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

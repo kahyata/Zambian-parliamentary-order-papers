@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "title": "Friday, 9th June, 2023",
+    "source_url": "https://www.parliament.gov.zm/node/11051",
+    "document_type": "Order Paper",
+    "session": "SECOND SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "280",
+      "asked_by": "Mr Andeleki (Katombola)",
+      "minister": "Minister of Education",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 74)",
+      "parts": [
+        "(a) whether the Government has any plans to establish boarding facilities at some schools in Katombola Parliamentary Constituency in order to increase the number of learners benefiting from the Constituency Development Fund Bursary Scheme;",
+        "(b) if so, which schools are earmarked for boarding facilities; and",
+        "(c) when the project will commence."
+      ]
+    },
+    {
+      "question_number": "281",
+      "asked_by": "Mr Chewe (Lubansenshi)",
+      "minister": "Minister of Technology and Science",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 74)",
+      "parts": [
+        "(a) whether the Government has any plans to construct a communication tower in Chulungoma Ward in Lubansenshi Parliamentary Constituency;",
+        "(b) if so, when the plans will be implemented;",
+        "(c) under which mobile network provider the tower will operate;",
+        "(d) what the estimated cost of the project is; and",
+        "(e) if there are no such plans, why."
+      ]
+    },
+    {
+      "question_number": "282",
+      "asked_by": "Mr Munir Zulu (Lumezi)",
+      "minister": "Minister of Health",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 74)",
+      "parts": [
+        "(a) whether the Government has any plans to construct a hospital in Lumezi District;",
+        "(b) if so, when the plans will be implemented; and",
+        "(c) if there are no such plans, why."
+      ]
+    }
+  ],
+  "question_count": 3,
+  "status": "success"
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "title": "Wednesday, 13th November, 2024",
+    "source_url": "https://www.parliament.gov.zm/node/12000",
+    "document_type": "Order Paper",
+    "session": "FOURTH SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "120",
+      "asked_by": "Mr Chanda (Kanchibiya)",
+      "minister": "Minister of Energy",
+      "section": "5. QUESTIONS FOR ORAL ANSWER (STANDING ORDER 80)",
+      "parts": [
+        "(a) when electrification of Kabinga Chiefdom in Kanchibiya Parliamentary Constituency, by the Rural Electrification Authority, will commence;",
+        "(b) what the cause of the delay in commencing the project is;",
+        "(c) what the cost of the project is; and",
+        "(d) what the time frame for the completion of the project is."
+      ]
+    },
+    {
+      "question_number": "121",
+      "asked_by": "Mr Miyutu (Kalabo Central)",
+      "minister": "Minister of Local Government and Rural Development when the Government will employ experts in rural district councils to enhance the execution of projects under the Constituency Development Fund.",
+      "section": "5. QUESTIONS FOR ORAL ANSWER (STANDING ORDER 80)",
+      "parts": []
+    },
+    {
+      "question_number": "122",
+      "asked_by": "Mr Emmanuel Banda (Muchinga)",
+      "minister": "Minister of Youth, Sport and Arts",
+      "section": "5. QUESTIONS FOR ORAL ANSWER (STANDING ORDER 80)",
+      "parts": [
+        "(a) whether the Government has any plans to empower youths who are involved in the following economic sectors in Muchinga Parliamentary Constituency:",
+        "(i) agriculture; (ii) transport; and (iii) food production;",
+        "(b) if so, when the plans will be implemented; and",
+        "(c) if there are no such plans, why."
+      ]
+    }
+  ],
+  "question_count": 3,
+  "status": "success"
+}

@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "title": "Wednesday, 2nd July, 2025",
+    "source_url": "https://www.parliament.gov.zm/node/12407",
+    "document_type": "Order Paper",
+    "session": "FOURTH SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "367",
+      "asked_by": "Mr Chewe (Lubansenshi)",
+      "minister": "Minister of Education",
+      "section": "6. QUESTIONS FOR ORAL ANSWER (STANDING ORDER 80)",
+      "parts": [
+        "(a) whether the Government has any plans to construct the following additional infrastructure at schools in Lubansenshi Parliamentary Constituency:",
+        "(i) classroom blocks; and (ii) staff houses;",
+        "(b) if so, when the plans will be implemented;",
+        "(c) how many classroom blocks and staff houses are earmarked for construction; and",
+        "(d) if there are no such plans, why."
+      ]
+    },
+    {
+      "question_number": "368",
+      "asked_by": "Mr Hamwaata (Pemba)",
+      "minister": "Minister of Finance and National Planning",
+      "section": "6. QUESTIONS FOR ORAL ANSWER (STANDING ORDER 80)",
+      "parts": [
+        "(a) whether the Government has any plans to facilitate the establishment of a commercial bank in Pemba District;",
+        "(b) if so, when the plans will be implemented; and",
+        "(c) if there are no such plans, why."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

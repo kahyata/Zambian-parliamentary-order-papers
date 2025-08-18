@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "title": "Tuesday, 20th June, 2023",
+    "source_url": "https://www.parliament.gov.zm/node/11075",
+    "document_type": "Order Paper",
+    "session": "SECOND SESSION OF THE THIRTEENTH ASSEMBLY"
+  },
+  "questions": [
+    {
+      "question_number": "294",
+      "asked_by": "Mr Amutike (Mongu Central)",
+      "minister": "Minister of Local Government and Rural Development",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 74)",
+      "parts": [
+        "(a) whether the Government has any plans to rehabilitate township roads in Mongu District, especially the Old Shoprite and Libonda roads; and",
+        "(b) if so, when the plans will be implemented."
+      ]
+    },
+    {
+      "question_number": "295",
+      "asked_by": "Mr Kamondo (Mufumbwe)",
+      "minister": "Minister of Home Affairs and Internal Security",
+      "section": "QUESTIONS FOR ORAL ANSWER (STANDING ORDER 74)",
+      "parts": [
+        "(a) whether the Government has any plans to construct staff houses for the following institutions in Mufumbwe Parliamentary Constituency:",
+        "(i) Zambia Police Service; and (ii) Zambia Correctional Service; and",
+        "(b) if so, when the plans will be implemented."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}
