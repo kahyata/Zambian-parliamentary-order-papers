@@ -21,7 +21,7 @@ From a real world perspective, the business objectives this project aims to achi
 4. To facilitate faster information retrieval, better data-driven insights into parliamentary activities, and improve accessibility and transparency for scholars, journalists, and the general public.
 5. To develop text cleaning and feature extraction workflows (e.g., TF-IDF, embeddings) to transform raw parliamentary question text into structured inputs for classification models.
 
-## Project success criteria( done by @Kahyatadksn & @)
+## Project success criteria( done by @Kahyatadksn & @Leonard)
 ### 1. Model Performance & Accuracy
 
 Data Availability: The model must provide users with access to a minimum of 1,000 labelled questions.
