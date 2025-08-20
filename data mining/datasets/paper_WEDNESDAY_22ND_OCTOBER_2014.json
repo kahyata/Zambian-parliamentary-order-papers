@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "title": "Wednesday, 22nd October, 2014",
+    "source_url": "https://www.parliament.gov.zm/node/448",
+    "document_type": "Order Paper",
+    "parliament": "NATIONAL ASSEMBLY OF ZAMBIA",
+    "session": "FOURTH SESSION OF THE ELEVENTH ASSEMBLY",
+    "date": "WEDNESDAY, 22ND OCTOBER, 2014",
+    "time": "AT 1430 HOURS"
+  },
+  "questions": [
+    {
+      "question_number": "199",
+      "asked_by": "Mr P Phiri (Mkaika)",
+      "minister": "Minister of Mines, Energy and Water Development how many dams are earmarked for construction in Katete District in 2014.",
+      "section": "QUESTIONS FOR ORAL ANSWER",
+      "parts": []
+    },
+    {
+      "question_number": "200",
+      "asked_by": "Mr Ng’onga (Kaputa)",
+      "minister": "Minister of Transport, Works, Supply and Communication",
+      "section": "QUESTIONS FOR ORAL ANSWER",
+      "parts": [
+        "(a)    whether the tarring of the Pedicle Road is on schedule;",
+        "(b)    if it is not, what has caused the delay;",
+        "(c)    what the time-frame for completing the project is; and",
+        "(d)    whether the contractor has the capacity to complete the project on time."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

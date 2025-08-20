@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "title": "Wednesday, 25th November, 2015",
+    "source_url": "https://www.parliament.gov.zm/node/4782",
+    "document_type": "Order Paper",
+    "parliament": "NATIONAL ASSEMBLY OF ZAMBIA",
+    "session": "FIFTH SESSION OF THE ELEVENTH ASSEMBLY",
+    "date": "WEDNESDAY, 25TH NOVEMBER, 2015",
+    "time": "AT 1430 HOURS"
+  },
+  "questions": [
+    {
+      "question_number": "185",
+      "asked_by": "Mr Ndalamei (Sikongo)",
+      "minister": "Minister of Works and Supply",
+      "section": "QUESTIONS FOR ORAL ANSWER",
+      "parts": [
+        "(a)    when the construction of the Kalabo-Sikongo road up to the Angolan Border will commence; and",
+        "(b)    what has caused the delay in commencing the project."
+      ]
+    },
+    {
+      "question_number": "186",
+      "asked_by": "Prof Willombe (Mporokoso)",
+      "minister": "Minister of Energy and Water Development",
+      "section": "QUESTIONS FOR ORAL ANSWER",
+      "parts": [
+        "(a)    when the construction of a fuel filling station in Mporokoso District will commence;",
+        "(b)    why contracts to construct fuel filling stations in Luwingu and Mporokoso Districts were awarded to one contractor;",
+        "(c)    what the time-frame for completion of each project is; and",
+        "(d)    what the cost of each project is."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

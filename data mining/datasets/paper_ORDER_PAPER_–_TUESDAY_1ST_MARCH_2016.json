@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "title": "Tuesday, 1st March, 2016",
+    "source_url": "https://www.parliament.gov.zm/node/4964",
+    "document_type": "Order Paper",
+    "parliament": "NATIONAL ASSEMBLY OF ZAMBIA",
+    "session": "FIFTH SESSION OF THE ELEVENTH ASSEMBLY",
+    "date": "ORDER PAPER – TUESDAY, 1ST MARCH, 2016",
+    "time": "AT 1430 HOURS"
+  },
+  "questions": [
+    {
+      "question_number": "335",
+      "asked_by": "Mr Miyutu (Kalabo Central)",
+      "minister": "Minister of Works and Supply",
+      "section": "QUESTIONS FOR ORAL ANSWER",
+      "parts": [
+        "(a)    what plans the Government has to rehabilitate rural roads across the country;",
+        "(b)    whether the Government has any plans to upgrade any roads in Western Province to bituminous standard; and",
+        "(c)    if so, in which Districts the roads are."
+      ]
+    },
+    {
+      "question_number": "336",
+      "asked_by": "Mr Shuma (Malambo)",
+      "minister": "Minister of Energy and Water Development when the following areas in Malambo Parliamentary Constituency will be electrified",
+      "section": "QUESTIONS FOR ORAL ANSWER",
+      "parts": [
+        "(a)    Ncheka in Chief Mnkhaya’s area;",
+        "(b)    Kakumbi Old Palace; and",
+        "(c)    Mphomwa in Chief Jumbe’s area."
+      ]
+    }
+  ],
+  "question_count": 2,
+  "status": "success"
+}

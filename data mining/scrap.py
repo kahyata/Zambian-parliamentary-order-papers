@@ -69,19 +69,32 @@ def extract_parliament_questions(url):
         in_questions_section = False
         current_section = None
         
+        # Extract metadata from content
+        for line in lines[:20]:  # Check first 20 lines for metadata
+            if "NATIONAL ASSEMBLY OF ZAMBIA" in line:
+                metadata["parliament"] = line
+            elif "SESSION OF THE" in line and "ASSEMBLY" in line:
+                metadata["session"] = line
+            elif "ORDER PAPER" in line and ("MONDAY" in line or "TUESDAY" in line or "WEDNESDAY" in line or 
+                                          "THURSDAY" in line or "FRIDAY" in line):
+                metadata["date"] = line.replace("ORDER PAPER - ", "")
+            elif "AT" in line and "HOURS" in line:
+                metadata["time"] = line
+        
+        # Process all lines for questions
         for line in lines:
             # Detect sections
-            if "QUESTIONS FOR ORAL ANSWER" in line or "GROUPED QUESTIONS FOR ORAL ANSWER" in line:
+            if "QUESTIONS FOR ORAL ANSWER" in line:
                 in_questions_section = True
                 current_section = line
                 continue
                 
-            if ("MOTIONS" in line or "ORDERS OF THE DAY" in line) and in_questions_section:
+            if ("MOTIONS" in line or "ORDERS OF THE DAY" in line or "HIS HONOUR THE VICE PRESIDENT'S QUESTION TIME" in line) and in_questions_section:
                 break
                 
             if in_questions_section:
-                # New question detection with strict pattern matching
-                question_match = re.match(r'^(\d+)\.\s+(.+?)\s+-\s+to ask the (.+?):?$', line)
+                # New question detection with pattern matching
+                question_match = re.match(r'^(\d+)\s+(.+?)\s+-\s+to ask the (.+?):?$', line)
                 if question_match:
                     if current_question:
                         questions.append(current_question)
@@ -108,16 +121,10 @@ def extract_parliament_questions(url):
         if current_question:
             questions.append(current_question)
         
-        # Extract date and session from content
-        for line in lines[:20]:  # Check first 20 lines for metadata
-            if not metadata.get("date"):
-                date_match = re.search(r'ORDER PAPER â€" ([A-Z]+, \d+(?:ST|ND|RD|TH) [A-Z]+, \d{4})', line)
-                if date_match:
-                    metadata["date"] = date_match.group(1)
-            
-            if not metadata.get("session"):
-                if "SESSION OF THE" in line and "ASSEMBLY" in line:
-                    metadata["session"] = line.strip()
+        # Clean up the questions - remove question_text field if it's not needed
+        for question in questions:
+            if "question_text" in question and not question["question_text"].strip():
+                del question["question_text"]
         
         return {
             "metadata": metadata,
@@ -133,60 +140,23 @@ def extract_parliament_questions(url):
             "url": url
         }
 
-def get_total_pages(base_url):
-    """Determine the total number of pages by checking pagination"""
-    try:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-        }
-        
-        response = requests.get(base_url, headers=headers, verify=False, timeout=30)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Look for pagination elements
-        pagination = soup.find('ul', class_='pager')
-        if not pagination:
-            print("No pagination found, assuming single page")
-            return 1
-        
-        # Find the last page number
-        page_links = pagination.find_all('a')
-        max_page = 0
-        
-        for link in page_links:
-            href = link.get('href', '')
-            page_match = re.search(r'page=(\d+)', href)
-            if page_match:
-                page_num = int(page_match.group(1))
-                max_page = max(max_page, page_num)
-        
-        # The actual total pages is max_page + 1 (since page 0 is the first page)
-        total_pages = max_page + 1
-        print(f"Found {total_pages} total pages")
-        return total_pages
-        
-    except Exception as e:
-        print(f"Error determining total pages: {str(e)}")
-        return 1
-
 def get_order_paper_urls_all_pages(base_url, target_year=2006):
-    """Extract all order paper URLs from all pages until target year is reached"""
-    total_pages = get_total_pages(base_url)
+    """Extract all order paper URLs from pages 0 to 17 until target year is reached"""
     all_paper_links = []
     
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
     
-    for page_num in range(total_pages):
+    # Scrape from page 0 to page 17
+    for page_num in range(0, 18):  # 0 to 17 inclusive
         # Construct URL for each page
         if page_num == 0:
             page_url = base_url
         else:
             page_url = f"{base_url}?page={page_num}"
         
-        print(f"Scraping page {page_num + 1}/{total_pages}: {page_url}")
+        print(f"Scraping page {page_num + 1}/18: {page_url}")
         
         try:
             response = requests.get(page_url, headers=headers, verify=False, timeout=30)
@@ -256,7 +226,7 @@ def get_order_paper_urls_all_pages(base_url, target_year=2006):
 def process_all_papers(target_year=2006):
     """Process all order papers and save to datasets folder"""
     ensure_datasets_folder()
-    list_url = "https://www.parliament.gov.zm/publications/order-paper-list"
+    list_url = "https://www.parliament.gov.zm/publications/order-paper-date"
     papers = get_order_paper_urls_all_pages(list_url, target_year)
     
     if not papers:
@@ -328,25 +298,6 @@ def process_all_papers(target_year=2006):
     
     print(f"Individual papers saved in: ./datasets/ folder")
 
-def test_single_page(page_num=0):
-    """Test function to check a specific page"""
-    base_url = "https://www.parliament.gov.zm/publications/order-paper-list"
-    if page_num == 0:
-        url = base_url
-    else:
-        url = f"{base_url}?page={page_num}"
-    
-    print(f"Testing page {page_num + 1}: {url}")
-    papers = get_order_paper_urls_all_pages(url, target_year=2020)
-    print(f"Found {len(papers)} papers")
-    for paper in papers[:5]:  # Show first 5
-        print(f"  - {paper['title']} ({paper['year']})")
-
 if __name__ == "__main__":
-    # You can test a specific page first:
-    # test_single_page(0)  # Test page 1
-    # test_single_page(1)  # Test page 2
-    
-    # Or run the full scraping process:
     # Set target_year to 2006 to get papers from 2006 to present
     process_all_papers(target_year=2006)
