@@ -43,7 +43,7 @@ class FeatureEngineeringPipeline:
         if 'demographic' in feature_types:
             df_features = self.demographic_engine.extract_demographic_features(df_features)
             
-        # Skip network and performance features as requested
+        # Skip network and performance features
         print("Skipping text, network and performance features...")
             
         print(f"Simplified feature engineering complete!")
